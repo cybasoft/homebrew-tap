@@ -1,6 +1,6 @@
 cask "notelume" do
-  version "1.0.1"
-  sha256 "7c6acf2db03e94255a98ee763e3a308573d8a622fe9130616d90d651bc413923"
+  version "1.0.2"
+  sha256 "3fb3f22d3cad2f69313f8aab42d1471386e34627204e8e181473dd38b7cda271"
 
   url "https://github.com/cybasoft/notelume/releases/download/v#{version}/NoteLume-#{version}.dmg"
   name "NoteLume"
