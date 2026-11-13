@@ -1,6 +1,6 @@
 cask "passbar" do
-  version "0.9.2"
-  sha256 "dcf8ce925830b6d6589551f04caba4c5e2141c16a4909897c439474a8be78a02"
+  version "1.0.1"
+  sha256 "da56d015e3ec50a044be6893165da4e2c44a25a648a291cd9e17f1c6eb04f3b5"
 
   url "https://github.com/cybasoft/passbar/releases/download/v#{version}/PassBar-#{version}.dmg"
   name "PassBar"
