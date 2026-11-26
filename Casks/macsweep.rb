@@ -1,6 +1,6 @@
 cask "macsweep" do
-  version "0.1.0"
-  sha256 "d4ab68b52f82d93af9c6dabec5e3ca92e1eee96f446fd0cb5cb285346b806aee"
+  version "0.1.1"
+  sha256 "6710426ce8008912393cd64b38c6239baf40beea6dda5b52baa95375dbbfff58"
 
   url "https://github.com/cybasoft/macsweep/releases/download/v#{version}/macsweep-#{version}.tar.gz"
   name "macsweep"
